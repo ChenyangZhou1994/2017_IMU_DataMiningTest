@@ -1,6 +1,10 @@
 # 2017_IMU_DataMiningTest
 内蒙古大学2017级学硕数据挖掘实验
 IMU_DataMining_test
+
+
+
+
 Test1
 **[数据集名称]**Gesture Phase Segmentation (来自于UCI数据集)
 **[数据集描述]**该数据集共包含9900条数据,其中训练数据8066条,测试数据1834条.每条数据包含19属性,

@@ -1,6 +1,6 @@
 # 2017_IMU_DataMiningTest
 内蒙古大学2017级学硕数据挖掘实验
-IMU_DataMining_test
+IMU_DataMining_Test
 
 
 
